@@ -18,6 +18,7 @@ npm run build
 ## 在线访问
 
 - Vercel：<https://persona-atlas-6z891v5ie-contralogik1.vercel.app/>
+- GitHub Pages：<https://contralogik.github.io/persona-atlas-cn/>
 - GitHub：<https://github.com/contralogik/persona-atlas-cn>
 
 ## 关键文件
