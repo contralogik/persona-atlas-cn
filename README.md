@@ -15,6 +15,11 @@ npm run dev
 npm run build
 ```
 
+## 在线访问
+
+- Vercel：<https://persona-atlas-6z891v5ie-contralogik1.vercel.app/>
+- GitHub：<https://github.com/contralogik/persona-atlas-cn>
+
 ## 关键文件
 
 - `src/data/questions.ts`：160 道中文题目、模块元数据和量表文本
